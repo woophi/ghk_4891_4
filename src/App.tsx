@@ -300,7 +300,7 @@ export const App = () => {
               color="secondary"
               onClick={() => {
                 window.gtag('event', '4891_income_var4');
-                window.location.replace('alfabank://longread?endpoint=v1/adviser/longreads/46688');
+                window.location.replace('alfabank://longread?endpoint=v1/adviser/longreads/48915');
               }}
               style={{
                 color: '#2A77EF',
